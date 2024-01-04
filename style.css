@@ -67,7 +67,7 @@ header a:hover {
   border-radius: 5px;
 }
 .slogan {
-  background-color: #485652;
+  background-color: #cab6b2;
   color: white;
   height: 250px;
   display: flex;
@@ -100,7 +100,7 @@ header a:hover {
 }
 .product {
   display: flex;
-  background-color: #ede9db;
+  background-color: #f8f3df;
   justify-content: space-between;
   align-items: center;
   padding: 100px 180px 80px;
@@ -122,7 +122,7 @@ header a:hover {
   line-height: 1.6em;
 }
 .newsletter {
-  background-color: #485652;
+  background-color: #5c6462;
   color: white;
   padding: 60px 0;
   display: flex;
